@@ -33,7 +33,9 @@ Make sure that you `cd` into the repository.
 ## Execution
 To execute the crawler, run the `launch.py` file.
 * `python3 launch.py`
+
 You can restart the crawler and remove all previous progress done using the `--restart` command
 * `python3 launch.py --restart`
+
 You can specify a different config file to use by using the `--config_file` command
 * `python3 launch.py --config_file path/to/config`
