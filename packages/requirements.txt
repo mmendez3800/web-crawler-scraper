@@ -1,0 +1,6 @@
+cbor
+requests
+beautifulsoup4
+lxml
+simhash
+dill
