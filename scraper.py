@@ -1,14 +1,8 @@
 """
-CS 221 / SWE 225 - Assignment 2
-
-File Name:
-    scraper.py
-    
-Description:
-    This program is to assist with our web crawler being implemented.
-    Using the original files provided, we are to help construct the core of a web crawler.
-    This crawler is to go through only certain domains and collect various information.
-    The information obtained will be used to ouput a report showing our crawler's results.
+This program is to assist with our web crawler being implemented.
+Using the original files provided, we are to help construct the core of a web crawler.
+This crawler is to go through only certain domains and collect various information.
+The information obtained will be used to ouput a report showing our crawler's results.
 """
 import dill as pickle
 import json
